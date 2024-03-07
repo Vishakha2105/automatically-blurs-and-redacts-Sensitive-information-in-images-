@@ -1,0 +1,3 @@
+Developed a Solution that automatically blurs and redacts Sensitive information in images such as faces or license plate to protect Privacy in MATLAB
+
+With the increasing use of images and videos in various applications, there is a growing concern regarding the privacy of individuals captured in these media. Sensitive information, such as faces, license plates, and personal identifiers, should be protected to ensure the privacy and security of individuals. The problem is to develop a solution that can automatically identify and redact or blur sensitive information in images to safeguard privacy.
